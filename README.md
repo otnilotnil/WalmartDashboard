@@ -3,3 +3,6 @@ This project explores Walmart sales data by combining Python, MySQL, and Tableau
 
 ## Dataset
 The dataset was sourced from [kaggle](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
+
+## Public Tableau Link
+[Tableau](https://public.tableau.com/app/profile/nathan.halim8661/viz/WalmartDashboard_17590004843230/Dashboard1?publish=yes)
